@@ -14,15 +14,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alexrosenkranz/google-books-search.git"
+    "url": "git+https://github.com/randomclamshell/googlebooksearch.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/alexrosenkranz/google-books-search/issues"
-  },
-  "homepage": "https://github.com/alexrosenkranz/google-books-search#readme",
+  "homepage": "https://github.com/randomclamshell/googlebooksearch#readme",
   "devDependencies": {
     "concurrently": "^4.0.1",
     "nodemon": "^1.18.6"
@@ -33,3 +30,4 @@
     "mongoose": "^5.3.12"
   }
 }
+

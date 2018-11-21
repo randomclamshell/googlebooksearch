@@ -1,3 +1,4 @@
+//STEP 4 IS MAKING THE API ROUTES. THIS INTERACTS WITH THE CONTROLLER WHICH INTERACTS WITH THE DATABASE
 const router = require("express").Router();
 const booksController = require("../../controllers/booksController");
 

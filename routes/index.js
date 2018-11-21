@@ -1,3 +1,4 @@
+//THIS IS STEP 5. ONCE YOUR ROUTES ARE MADE AND YOU EXPORT THEM IN THE INDEX.JS FILE IN THE API FOLDER, YOU EXPORT THEM HERE
 const router = require('express').Router();
 const path = require('path');
 const apiRoutes = require('./api');

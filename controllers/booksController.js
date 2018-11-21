@@ -1,3 +1,5 @@
+//THIS IS STEP 3 AFTER YOU SET UP YOUR MODELS. CONTROLLERS CONTROL THE MODEL WHICH IS CONNECTED TO THE DATABASE
+
 const db = require("../models");
 
 // Defining methods for the booksController

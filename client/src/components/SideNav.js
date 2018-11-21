@@ -1,3 +1,5 @@
+//THIS IS STEP 8 OR 9. THESE ARE THE COMPONENTS THAT WE WILL BE CALLING ON IN THE APP.JS FILE IN THE CLIENT FOLDER
+
 import React from 'react';
 import {Link} from 'react-router-dom';
 import {withStyles} from '@material-ui/core';

@@ -1,3 +1,4 @@
+//THIS IS STEP 1 AFTER YOU SET UP MONGO. MODELS ARE STEP 1
 const mongoose = require("mongoose");
 const Schema = mongoose.Schema;
 

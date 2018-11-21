@@ -1,3 +1,5 @@
+//THIS IS STEP 8 OR 9. THESE ARE THE COMPONENTS THAT WE WILL BE CALLING ON IN THE APP.JS FILE IN THE CLIENT FOLDER
+
 import React, { Component } from 'react';
 import API from '../utils/API';
 import {Redirect} from 'react-router-dom';
